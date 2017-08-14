@@ -1,6 +1,6 @@
 {
     "name": "yakeing/php_curl",
-    "description": "php Curl Class",
+    "description": "php curl class",
     "keywords": ["post", "CURL", "http", "get"],
     "homepage": "https://github.com/yakeing/php_curl",
     "type": "symfony-bundle",
@@ -25,7 +25,7 @@
     },
     "extra":{
         "branch-alias":{
-            "dev-master": "1.x-dev"
+            "dev-master": "2.x-dev"
         }
     }
 }
