@@ -13,8 +13,8 @@
   * $post = array('upload' =>curl_file_create(''img.jpg','image/jpeg','pic.jpg'));
   * $post = array('upload'=>new CURLFile(realpath('img.jpg'))); php 5.5 Edition
   */
-namespace php_Curl;
-class Curl{
+namespace php_curl;
+class curl{
 	public $Headers = array();
 	public $Body = '';
 	public $HttpCode = 0;
