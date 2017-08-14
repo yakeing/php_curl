@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit bootstrap="./bootstrap.php" colors="true">
     <testsuites>
-        <testsuite name="php_Curl Test Suite">
-            <directory>./php_CurlTest/</directory>
+        <testsuite name="php_curl Test Suite">
+            <directory>./php_curlTest/</directory>
         </testsuite>
     </testsuites>
     <filter>
         <whitelist>
-            <directory suffix=".php">../src/php_Curl</directory>
+            <directory suffix=".php">../src/php_curl</directory>
             <exclude>
                 <directory>../vendor</directory>
             </exclude>
