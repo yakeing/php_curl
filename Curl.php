@@ -3,7 +3,7 @@
   * Curl Class
   *
   * @author http://weibo.com/yakeing
-  * @version 2.0
+  * @version 2.1
   * Prompt: CertUrl The server may not contain root / chain SSL certificates, causing authentication errors
   * 注意: CertUrl 服务器可能不包含根/链SSL证书,导致身份验证错误
   * Prompt: When you open the {HeadOut} option, GET/POST returns only false
@@ -13,6 +13,7 @@
   * $post = array('upload' =>curl_file_create(''img.jpg','image/jpeg','pic.jpg'));
   * $post = array('upload'=>new CURLFile(realpath('img.jpg'))); php 5.5 Edition
   */
+namespace php_Curl;
 class Curl{
 	public $Headers = array();
 	public $Body = '';
