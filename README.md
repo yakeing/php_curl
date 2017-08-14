@@ -4,20 +4,20 @@ php Curl Class
 
 #### Travis CI
 
-[![Travis-ci](https://api.travis-ci.org/yakeing/php_Curl.svg)](https://travis-ci.org/yakeing/php_Curl)
+[![Travis-ci](https://api.travis-ci.org/yakeing/php_curl.svg)](https://travis-ci.org/yakeing/php_curl)
 
 #### Packagist
 
-[![Version](http://img.shields.io/packagist/v/yakeing/php_Curl.svg)](https://packagist.org/packages/yakeing/php_Curl)
-[![Downloads](http://img.shields.io/packagist/dt/yakeing/php_Curl.svg)](https://packagist.org/packages/yakeing/php_Curl)
+[![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
+[![Downloads](http://img.shields.io/packagist/dt/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
 
 #### Github
 
-[![Downloads](https://img.shields.io/github/downloads/yakeing/php_Curl/total.svg)](https://github.com/yakeing/php_Curl)
-[![Size](https://img.shields.io/github/size/yakeing/php_Curl/src/php_Curl/Curl.php.svg)](https://github.com/yakeing/php_Curl)
-[![tag](https://img.shields.io/github/tag/yakeing/php_Curl.svg)](https://github.com/yakeing/php_Curl)
-[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/php_Curl)
-[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/php_Curl)
+[![Downloads](https://img.shields.io/github/downloads/yakeing/php_curl/total.svg)](https://github.com/yakeing/php_curl)
+[![Size](https://img.shields.io/github/size/yakeing/php_curl/src/php_curl/curl.php.svg)](https://github.com/yakeing/php_curl)
+[![tag](https://img.shields.io/github/tag/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
+[![Language](https://oauth.applinzi.com/SvgLabel/4D4D4D/Language/F66000/PHP/image.svg)](https://github.com/yakeing/php_curl)
+[![License](https://oauth.applinzi.com/SvgLabel/4D4D4D/License/007EC6/MPL-2.0/image.svg)](https://github.com/yakeing/php_curl)
 
 BY: [yakeing](http://weibo.com/yakeing)
 
@@ -27,7 +27,7 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ```
 
-    $ composer require yakeing/php_Curl
+    $ composer require yakeing/php_curl
 
 ```
 
@@ -36,7 +36,7 @@ Use [Composer](https://getcomposer.org) to install the library.
 -----
 - [x] example
 ```php
-    $Curl = new Curl();
+    $Curl = new curl();
     $Curl->LocationQuantity = 1;
     $Curl->Timeout = 10;
 ```
