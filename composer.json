@@ -1,8 +1,8 @@
 {
-    "name": "yakeing/php_Curl",
+    "name": "yakeing/php_curl",
     "description": "php Curl Class",
-    "keywords": ["get_headers", "CURL", "http", "get"],
-    "homepage": "https://github.com/yakeing/php_Curl",
+    "keywords": ["post", "CURL", "http", "get"],
+    "homepage": "https://github.com/yakeing/php_curl",
     "type": "symfony-bundle",
     "license": "MPL-2.0",
     "authors": [
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "php_Curl": "src/"
+            "php_curl": "src/"
         }
     },
     "require": {
