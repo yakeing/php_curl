@@ -1,5 +1,5 @@
- <?php
-/**
+<?php
+/*
   * Curl Class
   *
   * @author http://weibo.com/yakeing
