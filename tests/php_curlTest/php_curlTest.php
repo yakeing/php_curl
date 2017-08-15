@@ -13,7 +13,7 @@ class php_curlTest extends TestCase{
     $curl->Timeout = 10;
     $curl->Referer = 'https://github.com/';
     $curl->Encoding = 'gzip';
-    $this->assertTrue($curl->curlHeader($url));
+    $this->assertTrue($curl->Get($url));
     $this->assertEquals(200, $curl->HttpCode);
     $this->assertEquals('Hello world', trim($curl->Body));
   }
