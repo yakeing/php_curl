@@ -3,16 +3,16 @@
 Curl is an open source file transfer tool that uses URL syntax to work on the command line, where the basic functions of curl are encapsulated, such as COOKIES / encrypted transport / HTTP authentication / analog forms / upload files, etc.
 
 
-#### Travis CI
+### Travis CI
 
 [![Travis-ci](https://api.travis-ci.org/yakeing/php_curl.svg)](https://travis-ci.org/yakeing/php_curl)
 
-#### Packagist
+### Packagist
 
 [![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
 
-#### Github
+### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_curl/total.svg)](https://github.com/yakeing/php_curl)
 [![Size](https://img.shields.io/github/size/yakeing/php_curl/src/php_curl/curl.php.svg)](https://github.com/yakeing/php_curl)
@@ -34,7 +34,6 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ### init
 
------
 - [x] example
 ```php
     $Curl = new curl();
@@ -44,7 +43,6 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ### GET
 
------
 - [x] example
 ```php
       $Url = 'https://github.com/yakeing';
@@ -56,7 +54,6 @@ Use [Composer](https://getcomposer.org) to install the library.
 
 ### POST
 
------
 - [x] example
 ```php
       $Url = 'https://github.com/yakeing';
