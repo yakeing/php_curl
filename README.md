@@ -9,18 +9,16 @@ Curl is an open source file transfer tool that uses URL syntax to work on the co
 
 ### Packagist
 
-[![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
+[![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl/releases)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
 
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_curl/total.svg)](https://github.com/yakeing/php_curl)
-[![Size](https://img.shields.io/github/size/yakeing/php_curl/src/php_curl/curl.php.svg)](https://github.com/yakeing/php_curl)
-[![tag](https://img.shields.io/github/tag/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
-[![Language](https://img.shields.io/github/license/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
-[![Language](https://img.shields.io/github/languages/top/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
-
-BY: [yakeing](http://weibo.com/yakeing)
+[![Size](https://img.shields.io/github/size/yakeing/php_curl/src/php_curl/curl.php.svg)](https://github.com/yakeing/php_curl/blob/master/src/php_curl/curl.php)
+[![tag](https://img.shields.io/github/tag/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl/releases)
+[![Language](https://img.shields.io/github/license/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl/blob/master/LICENSE)
+[![Php](https://img.shields.io/github/languages/top/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
 
 ### Installation
 
@@ -85,3 +83,10 @@ Your donation makes CODE better.
  Alipay (支付宝赞助)
 
  ![Alipay](https://raw.githubusercontent.com/yakeing/Content/master/Donate/Alipay.png)
+
+Author
+---
+
+weibo: [yakeing](https://weibo.com/yakeing)
+
+twitter: [yakeing](https://twitter.com/yakeing)
