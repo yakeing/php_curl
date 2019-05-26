@@ -9,7 +9,7 @@ Curl is an open source file transfer tool that uses URL syntax to work on the co
 
 ### Packagist
 
-[![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl/releases)
+[![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://github.com/yakeing/yakeing/php_curl/releases)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/php_curl.svg)](https://packagist.org/packages/yakeing/php_curl)
 
 ### Github
