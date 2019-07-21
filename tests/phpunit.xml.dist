@@ -2,7 +2,7 @@
 <phpunit bootstrap="./bootstrap.php" colors="true">
     <testsuites>
         <testsuite name="php_curl Test Suite">
-            <directory>./php_curlTest/</directory>
+            <directory>./php_curlTest</directory>
         </testsuite>
     </testsuites>
     <filter>
