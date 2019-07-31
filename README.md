@@ -8,11 +8,6 @@ Curl is an open source file transfer tool that uses URL syntax to work on the co
 [![Travis-ci](https://api.travis-ci.org/yakeing/php_curl.svg)](https://travis-ci.org/yakeing/php_curl)
 
 
-### CircleCI
-
-[![CircleCI](https://circleci.com/gh/yakeing/php_curl.svg?style=svg)](https://circleci.com/gh/yakeing/php_curl)
-
-
 ### Packagist
 
 [![Version](http://img.shields.io/packagist/v/yakeing/php_curl.svg)](https://github.com/yakeing/yakeing/php_curl/releases)
