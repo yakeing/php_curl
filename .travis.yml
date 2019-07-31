@@ -22,11 +22,9 @@ deploy:
   provider: releases
   api_key:
     secure: ${GITHUB_TOKEN}
-  file: UP.*.zip
-  file: UP.*.tar.gz
+  file: *.zip
+  file: *.tar.gz
   skip_cleanup: true
-  on:
-    tags: true
 
 after_script:
   - cd ../
