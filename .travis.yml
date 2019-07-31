@@ -25,6 +25,8 @@ deploy:
   file: *.zip
   file: *.tar.gz
   skip_cleanup: true
+  on:
+    tags: true
 
 after_script:
   - cd ../
