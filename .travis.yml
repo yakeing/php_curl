@@ -17,6 +17,15 @@ before_install:
   - cd tests
 
 script: phpunit --stderr
+
+deploy:
+  provider: releases
+  api_key:
+    secure: ${GITHUB_TOKEN}
+  file: UP.*.zip
+  file: UP.*.tar.gz
+  skip_cleanup: true
+
 after_script:
   - cd ../
   - pwd
