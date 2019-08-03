@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "php_curl": "src/"
+        "psr-4": {
+            "php_curl\\": "src/"
         }
     },
     "require": {
