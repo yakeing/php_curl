@@ -16,7 +16,7 @@ Curl is an open source file transfer tool that uses URL syntax to work on the co
 ### Github
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_curl/total.svg)](https://github.com/yakeing/php_curl)
-[![Size](https://img.shields.io/github/size/yakeing/php_curl/src/php_curl/curl.php.svg)](https://github.com/yakeing/php_curl/blob/master/src/php_curl/curl.php)
+[![Size](https://img.shields.io/github/size/yakeing/php_curl/src/curl.php.svg)](https://github.com/yakeing/php_curl/blob/master/src/php_curl/curl.php)
 [![tag](https://img.shields.io/github/tag/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl/releases)
 [![Language](https://img.shields.io/github/license/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl/blob/master/LICENSE)
 [![Php](https://img.shields.io/github/languages/top/yakeing/php_curl.svg)](https://github.com/yakeing/php_curl)
