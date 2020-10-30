@@ -1,0 +1,31 @@
+{
+    "name": "yakeing/php_curl",
+    "description": "php curl class",
+    "keywords": ["post", "CURL", "http", "get"],
+    "homepage": "https://github.com/yakeing/php_curl",
+    "type": "symfony-bundle",
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "yakeing",
+            "homepage": "http://weibo.com/yakeing"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "php_curl\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+         "phpunit/phpunit": "5.7"
+    },
+    "extra":{
+        "branch-alias":{
+            "dev-master": "2.x-dev"
+        }
+    }
+}
