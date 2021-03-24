@@ -4,11 +4,11 @@ Curl is an open source file transfer tool that uses URL syntax to work on the co
 
 ### Travis CI badge
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/php_curl.svg?branch=master)](https://travis-ci.com/yakeing/php_curl)
+[![Travis-ci](https://api.travis-ci.com/yakeing/php_curl.svg?branch=main)](https://travis-ci.com/yakeing/php_curl)
 
 ### codecov badge
 
-[![codecov](https://codecov.io/gh/yakeing/php_curl/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/php_curl)
+[![codecov](https://codecov.io/gh/yakeing/php_curl/branch/main/graph/badge.svg)](https://codecov.io/gh/yakeing/php_curl)
 
 ### Github badge
 
